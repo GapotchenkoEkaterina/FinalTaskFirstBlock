@@ -7,3 +7,14 @@
 // [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
+
+string[] array = GetArray();
+Console.Write("Введите ограничение по количестве символов: ");
+int n = int.Parse (Console.ReadLine()!);
+
+// Метод формирования массива из введеных данных пользователем
+
+string[] GetArray() {
+    Console.Write("Введите значения через пробел: ");
+    return Console.ReadLine().Split(" ");
+}
