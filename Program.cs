@@ -18,3 +18,18 @@ string[] GetArray() {
     Console.Write("Введите значения через пробел: ");
     return Console.ReadLine().Split(" ");
 }
+
+
+// Метод нахождения количества значений удовлетворяещих ограничению по количеству знаков
+ 
+int Count(string[] Arrayin, int n) {
+    int count = 0;
+ 
+    for(int i = 0; i < Arrayin.Length; i++) {
+        if(Arrayin[i].Length <= n) {
+            count++;
+        }
+    }
+ 
+    return count;
+}
