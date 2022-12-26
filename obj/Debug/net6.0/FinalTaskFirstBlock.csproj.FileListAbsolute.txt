@@ -1,0 +1,15 @@
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\bin\Debug\net6.0\FinalTaskFirstBlock.exe
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\bin\Debug\net6.0\FinalTaskFirstBlock.deps.json
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\bin\Debug\net6.0\FinalTaskFirstBlock.runtimeconfig.json
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\bin\Debug\net6.0\FinalTaskFirstBlock.dll
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\bin\Debug\net6.0\FinalTaskFirstBlock.pdb
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\obj\Debug\net6.0\FinalTaskFirstBlock.csproj.AssemblyReference.cache
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\obj\Debug\net6.0\FinalTaskFirstBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\obj\Debug\net6.0\FinalTaskFirstBlock.AssemblyInfoInputs.cache
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\obj\Debug\net6.0\FinalTaskFirstBlock.AssemblyInfo.cs
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\obj\Debug\net6.0\FinalTaskFirstBlock.csproj.CoreCompileInputs.cache
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\obj\Debug\net6.0\FinalTaskFirstBlock.dll
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\obj\Debug\net6.0\refint\FinalTaskFirstBlock.dll
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\obj\Debug\net6.0\FinalTaskFirstBlock.pdb
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\obj\Debug\net6.0\FinalTaskFirstBlock.genruntimeconfig.cache
+C:\Users\acgap\Desktop\FinalTaskFirstBlock\FinalTaskFirstBlock\obj\Debug\net6.0\ref\FinalTaskFirstBlock.dll
