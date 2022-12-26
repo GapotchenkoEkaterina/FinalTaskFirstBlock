@@ -11,6 +11,8 @@
 string[] array = GetArray();
 Console.Write("Введите ограничение по количестве символов: ");
 int n = int.Parse (Console.ReadLine()!);
+string[] result = FindresArray(array, n);
+Console.WriteLine($"[{string.Join(", ", array)}] -> [{string.Join(", ", result)}]");
 
 // Метод формирования массива из введеных данных пользователем
 
