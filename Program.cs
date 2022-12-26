@@ -19,6 +19,20 @@ string[] GetArray() {
     return Console.ReadLine().Split(" ");
 }
 
+// Метод формирования массива из введеных данных пользователем ограниченный количеством знаков.
+ 
+string[] FindresArray(string[] Arrayin, int n) {
+    string[] Arrayout = new string[Count(Arrayin, n)];
+ 
+    for(int i = 0, j = 0; i < Arrayin.Length; i++) {
+        if(Arrayin[i].Length <= n) {
+            Arrayout[j] = Arrayin[i];
+            j++;
+        }
+    }
+ 
+    return Arrayout;
+}
 
 // Метод нахождения количества значений удовлетворяещих ограничению по количеству знаков
  
